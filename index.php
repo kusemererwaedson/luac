@@ -64,7 +64,9 @@
 </div>
 
 <section id="wrapper">
-    
+<div class="imageslide" style="margin-bottom: 40px;">
+    <img name="slide" width="100%" height="100%">
+</div>    
 <section id="service" class="service offset">
 <h3>We Are A Tech, Training and Innovation Association based at Lira University</h3>
 <h6>We train computer skills mainly tech based, Make  innovations based in android development, web based <br>and desktop applications plus computer maintenance and repair</h6>
