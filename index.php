@@ -114,7 +114,7 @@
         </div>
     </div>
     <div class="service-img">
-    <img name="slide" width="100%" height="100%">
+    <img src="images/1.png">
     </div>
 </div>
 </section>
